@@ -28,7 +28,7 @@
     <slf4j.version>1.7.7</slf4j.version>
     <storm.hdfs.version>0.1.2</storm.hdfs.version>
     <guava.version>${global_guava_version}</guava.version>
-    <hadoop.version>2.7.1</hadoop.version>
+    <hadoop.version>3.2.3</hadoop.version>
     <jackson.version>1.9.13</jackson.version>
   </properties>
   <dependencies>
